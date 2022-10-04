@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../my porfolio"
+		},
+		{
+			"path": "../javascript to do list"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coursera"
+	}
+}
